@@ -1,0 +1,7 @@
+Untar the data in to a subdirectory called "json_output".
+
+  createdb cidb
+  psql cidb < cidb.sql
+  php json2db.php
+
+Work in progress.
